@@ -1,0 +1,3 @@
+﻿  AnalyticsProj.cpp
+c:\users\gugac\documents\f180analytics\analyticsproj\analyticsproj\analyticsproj.cpp(15): warning C4101: 'turn': unreferenced local variable
+  AnalyticsProj.vcxproj -> C:\Users\gugac\Documents\F180analytics\AnalyticsProj\x64\Debug\AnalyticsProj.exe
